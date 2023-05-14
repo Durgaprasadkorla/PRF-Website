@@ -1,0 +1,60 @@
+/* Applying css for Navbar*/
+.navbar {
+  background-color: grey;
+}
+.navbar img{
+  width: 70px;
+  height: 30px;
+  margin-right: 450px;
+}
+.nav-link {
+  color: white;
+  margin-right: 20px;
+}
+.nav-link:hover{
+  color: black ;
+}
+
+/* Applying css for footer*/
+footer{
+  background-color: grey;
+  text-align: center;
+}
+footer img{
+width: 50px;
+height: 30px;
+}
+footer i{ 
+    margin-left: 5px;
+  }
+
+/* Applying CSS for Carousel */
+.carousel-inner img{
+  width: 100%;
+  height: 500px;
+}
+/* Applying CSS for Grid */
+.col img{
+  width: 75%;
+  height: 300px;
+}
+.col p {
+  text-align: justify;
+  width: 80%;
+  margin-left: 10%;
+}
+.col h3{
+  margin-top: 40px;
+}
+
+/* Applying CSS for hame-gallery-images */
+.col .image{
+  width: 300px;
+  height: 150px;
+margin: 10px;
+}
+
+/* Applying CSS for Contact */
+.col-3 textarea{
+height: 210px;
+}

@@ -1,0 +1,103 @@
+{
+  "user": [
+    {
+      "firstName": "DURGAPRASAD",
+      "lastName": "KORLA",
+      "id": "Villain",
+      "password": "7575"
+    },
+    {
+      "firstName": "prasad",
+      "lastName": "korla",
+      "id": "Prasad",
+      "password": "1234"
+    },
+    {
+      "firstName": "shafeeq",
+      "lastName": "ahmed",
+      "id": "shafeeqahmed",
+      "password": "shafeeqrdx000"
+    },
+    {
+      "firstName": "pooja",
+      "lastName": "m",
+      "id": "poojam",
+      "password": "9966"
+    },
+    {
+      "firstName": "Suraj",
+      "lastName": "K",
+      "id": "Suraj",
+      "password": "9696"
+    }
+  ],
+  "contact": [
+    {
+      "name": "DURGAPRASAD KORLA",
+      "email": "durgaprasad7036248@gmail.com",
+      "phone": "07036248736",
+      "message": "Hii this prasad",
+      "update": "Order Booked",
+      "id": 2
+    },
+    {
+      "name": "shafeeq",
+      "email": "shafeeq@gmail.com",
+      "phone": "8496494",
+      "message": "hii this is shafeeq",
+      "update": "Not-Contact",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "Username": "poojam",
+      "name": "pooja",
+      "email": "kscnanv@gmail.com",
+      "phone": "569461564151",
+      "message": "vhcbasijcnkoalnv ldnvojsdnc",
+      "update": "Taken Requirements"
+    },
+    {
+      "id": 5,
+      "Username": "Suraj",
+      "name": "PREMKUMAR YEDIDA",
+      "email": "premkumaryedida@gmail.com",
+      "phone": "7730002867",
+      "message": "hii this Prem",
+      "update": "Contacted"
+    },
+    {
+      "id": 6,
+      "Username": "Prasad",
+      "name": "Suraj K",
+      "email": "jscbjsan@gmail.com",
+      "phone": "703365606",
+      "message": "hbcsajnclasknclknc",
+      "update": "Order Booked"
+    },
+    {
+      "name": "prasad",
+      "email": "User@gamil.com",
+      "phone": "07730002867",
+      "message": "hii this Villain",
+      "update": "Not-Contact",
+      "id": 7
+    },
+    {
+      "name": "azhar",
+      "email": "kaxjlsjic@gmail.com",
+      "phone": "464664654",
+      "message": "jbkjnblkn",
+      "update": "Order Booked",
+      "id": 8
+    },
+    {
+      "name": "Avinavsh",
+      "email": "Avinavsh@gmail.com",
+      "phone": "761846254841",
+      "message": "this is Avinavsh",
+      "update": "Taken Requirements",
+      "id": 9
+    }
+  ]
+}
